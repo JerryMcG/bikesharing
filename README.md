@@ -25,4 +25,4 @@ Some additional visualizations could be:
 1. breaking down the demographics further to understand age brackets of riders.
 2. bring in some city demographics to compare usage numbers with total population of city. 
 
-[link to dashboard](https://public.tableau.com/app/profile/jerry8146/viz/BikeSharingStory_16333116376420/NYCCitiBikeStory "Link to Tableau Dashboard")
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/jerry8146/viz/BikeSharingStory_16333116376420/NYCCitiBikeStory "Link to Tableau Dashboard")
